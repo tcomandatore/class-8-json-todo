@@ -18,7 +18,6 @@ def test_parse_int():
     assert parse_int('a') is None
     assert parse_int('XYZ') is None
 
-
 def test_create_todos_template():
     tasks = todos.new()
     assert tasks == []

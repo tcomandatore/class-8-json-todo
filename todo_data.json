@@ -1,0 +1,14 @@
+[
+  {
+    "task": "My TODO task",
+    "description": null,
+    "due_on": null,
+    "status": "done"
+  },
+  {
+    "task": "python class",
+    "description": "2019-07-01 20:00:00",
+    "due_on": null,
+    "status": "pending"
+  }
+]
